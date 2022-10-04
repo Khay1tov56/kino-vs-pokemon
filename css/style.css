@@ -1,0 +1,10 @@
+li {
+    width: 300px;
+    min-height: 250px;
+    background-color: rgb(57, 211, 211);
+    margin: 30px;
+    padding: 18px;
+    border-radius:10px;
+    cursor: pointer;
+    text-align: center;
+}
